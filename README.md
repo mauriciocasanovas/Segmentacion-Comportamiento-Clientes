@@ -1,6 +1,4 @@
-﻿=======================================================================================
 SISTEMA DE SEGMENTACION Y COMPORTAMIENTO DE CLIENTES (K-MEANS)
-=======================================================================================
 
 DESCRIPCIÓN:
 Solucion de Inteligencia de Negocios orientada al marketing basado en datos. El 
@@ -43,5 +41,6 @@ VALOR AGREGADO:
   puede utilizar inmediatamente para campañas de email o promociones.
 - Escalabilidad: La arquitectura permite procesar miles de clientes y 
   actualizar los segmentos en tiempo real conforme cambian los datos en la DB.
+
 
 =======================================================================================
