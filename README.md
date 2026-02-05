@@ -41,6 +41,3 @@ VALOR AGREGADO:
   puede utilizar inmediatamente para campañas de email o promociones.
 - Escalabilidad: La arquitectura permite procesar miles de clientes y 
   actualizar los segmentos en tiempo real conforme cambian los datos en la DB.
-
-
-=======================================================================================
